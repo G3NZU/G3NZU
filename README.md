@@ -29,16 +29,16 @@ const victor = {
   name:       "Victor Alfonso Gamargo Franco",
   title:      "Full Stack Developer",
   location:   "🌍 Earth",
-  education:  "Computer Science — specialization in ML & Data Science",
-  interests:  ["Web Apps", "Mobile Dev", "AI/ML", "Game Dev"],
-  currentFocus: "Building cross-platform apps with React Native & Next.js",
+  education:  "BSc Computer Science",
+  interests:  ["Problem Solving", "Web & App Dev", "AI in the Workspace", "Game Dev"],
+  currentFocus: "Building an AI PA system for a construction company (private repo)",
   funFact:    "I've built everything from construction stock systems to nail salon websites 💅🏗️",
 };
 ```
 
-- 🎓 CS graduate with hands-on experience in **Machine Learning & Data Science**
-- 📱 Passionate about **cross-platform mobile development** with React Native & Expo
-- 🌱 Currently exploring **AI-powered applications** and advanced TypeScript patterns
+- 🎓 CS graduate with a passion for **solving problems** and building great products
+- 🌐 Passionate about **developing websites and apps** across the full stack
+- 🤖 Eager to keep integrating **AI into the workspace** and real-world projects
 - 🎮 Occasional **Unity** tinkerer when the game dev urge strikes
 - 💡 I turn caffeine and ideas into production-ready code
 - 📬 Reach me at **vagflol@gmail.com**
@@ -52,7 +52,6 @@ const victor = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -64,7 +63,6 @@ const victor = {
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -96,6 +94,7 @@ const victor = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [🤖 AI PA System](https://github.com/G3NZU) | AI-powered personal assistant for a construction company — dashboard, LLM chat, email integration with auto-drafting & more *(private repo)* | TypeScript · Next.js · AI |
 | [💼 Work Tracker](https://github.com/G3NZU/work-tracker) | Track and manage work hours across projects | TypeScript |
 | [💰 Budget Tracker](https://github.com/G3NZU/budget_tracker) | Mobile app to track income, expenses & budget | TypeScript · React Native |
 | [📦 Stock System](https://github.com/G3NZU/stock_system) | Inventory management for construction companies | TypeScript |
