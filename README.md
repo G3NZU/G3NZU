@@ -106,19 +106,6 @@ const victor = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="github-stats.svg" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=G3NZU&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="github-languages.svg" width="50%" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
