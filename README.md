@@ -109,12 +109,12 @@ const victor = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G3NZU&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="48%" />
+  <img src="github-stats.svg" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=G3NZU&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3NZU&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="50%" />
+  <img src="github-languages.svg" width="50%" />
 </div>
 
 ---
