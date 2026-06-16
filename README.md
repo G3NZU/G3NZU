@@ -106,14 +106,6 @@ const victor = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G3NZU&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </div>
